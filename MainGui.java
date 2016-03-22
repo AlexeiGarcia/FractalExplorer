@@ -65,9 +65,9 @@ public class MainGui extends JFrame
   
   private void showEvent() {
     display = new JLabel("Fractal Explorer", SwingConstants.CENTER);
-    instructions1 = new JLabel("This application explores the graphical representation of the Mendelbrot Set", SwingConstants.LEFT);
-    instructions2 = new JLabel("Use the Left and Right mouse clicks to zoom in and out", SwingConstants.LEFT);
-    instructions3 = new JLabel("Enter two values below for substitution into the set", SwingConstants.LEFT);
+    instructions1 = new JLabel("This application explores the graphical representation of the Mandelbrot Set.", SwingConstants.LEFT);
+    instructions2 = new JLabel("Use the Left and Right mouse clicks to zoom in and out.", SwingConstants.LEFT);
+    instructions3 = new JLabel("Enter two values below for substitution into the set.", SwingConstants.LEFT);
     instructionPanel.add(display);
     instructionPanel.add(instructions1);
     instructionPanel.add(instructions2);
