@@ -40,7 +40,7 @@ public class MainGui extends JFrame
   }
   
   private void prepareGUI() {
-    mainFrame = new JFrame("Fractal Freedom");
+    mainFrame = new JFrame("Fractal Frenzy");
     mainFrame.setSize(FRAME_WIDTH, FRAME_HEIGHT);
     mainFrame.setLayout(new GridLayout(4,1));
     mainFrame.setLayout(new FlowLayout());
