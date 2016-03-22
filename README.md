@@ -1,4 +1,4 @@
-# FractalExplorer
+# Fractal Frenzy
 
 Work in Progress
 
